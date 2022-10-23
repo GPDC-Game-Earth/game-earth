@@ -1,0 +1,1 @@
+¶XUc<?php exit; ?>a:1:{s:7:"content";s:174:"{"mobile":null,"desktop":null,"test_url":"https:\/\/developers.google.com\/speed\/pagespeed\/insights\/?url=https%3A%2F%2Fgamearth.ymaury-developments.com","time":1666537032}";}

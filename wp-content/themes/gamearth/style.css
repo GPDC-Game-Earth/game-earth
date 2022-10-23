@@ -1,0 +1,18 @@
+/*
+Theme Name: Gamearth
+Text Domain: gamearth
+Version: 0.1
+Requires at least: 6.0
+Description: Thème pour le site Game Earth, permet de s'affranchir des limites des thèmes par défaut et nous permet une total liberté dans le design
+Author: Yohan MAURY, Romain DANNE et Corentin CASSET
+*/
+header, footer {
+    background-color: azure;
+    color: royalblue;
+    padding: 1rem 10rem;
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+}
